@@ -1,0 +1,1 @@
+Search Algorithm which helps in finding the opitimized result from point A to point B
