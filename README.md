@@ -1,4 +1,4 @@
-Search Algorithm which helps in finding the opitimized result from point A to point B
+Search Algorithm which helps in finding the opitimized result(distance) from point A to point B
 
 1. Start with a frontier that contains the initial state
 
