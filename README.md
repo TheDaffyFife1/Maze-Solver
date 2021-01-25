@@ -21,8 +21,8 @@ Repeat:
 
 ## Depth First Search 
 
-<img style="float: right;" src="maze2_dfs.png">
+<img style="float: right;" src="maze2_dfs.png" width="600">
 
 ## Breadth First Search 
 
-<img style="float: right;" src="maze2_bfs.png">
+<img style="float: right;" src="maze2_bfs.png" width="600">
