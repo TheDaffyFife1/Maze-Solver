@@ -14,4 +14,15 @@ Repeat:
 
 6. Add the node to the explored set
 
-7. Expand node, add resulting nodes to the frontier if they aren’t already in the frontier or the explored set // Expand node: Explore the other nodes linked with the current node
+7. Expand node, add resulting nodes to the frontier if they arenâ€™t already in the frontier or the explored set // Expand node: Explore the other nodes linked with the current node
+
+## Comparison b/w DFS & BFS
+(For maze2.txt)
+
+## Depth First Search 
+
+<img style="float: right;" src="maze2_dfs.png">
+
+## Breadth First Search 
+
+<img style="float: right;" src="maze2_bfs.png">
